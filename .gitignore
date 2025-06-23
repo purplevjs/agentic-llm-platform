@@ -1,0 +1,10 @@
+# Python, Streamlit, FastAPI 
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.lock
+
+# Virtual environment
+venv/
+.env
+*.env
